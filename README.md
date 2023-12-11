@@ -5,7 +5,7 @@
 1. Clonez ce dépôt sur votre machine locale :
 
     ```bash
-    git clone https://github.com/votre-utilisateur/camera_app.git
+    git clone https://github.com/pierrebre/veille_pb.git
     ```
 
 2. Accédez au répertoire du projet :
